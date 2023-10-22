@@ -5,3 +5,5 @@
 Snake Game demo: https://www.xarg.org/project/html5-snake/ 
 
 Snake Game Screenshot: https://github.com/Chris-921/Snake_Game-And-Matrix_Optimization/tree/main/Snake_Game/Screenshot 
+
+Matrix optimization: Starting from a naive convolution algorithm. Improve the speed of calculation by adding SIMD and OpenMPI.
